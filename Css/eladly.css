@@ -1283,10 +1283,10 @@ header .container li .menu {
 }
 @media (max-width:767px){
   .stats .container .box > h2 {
-    font-size: 32px;
+    font-size: 25px;
 }
 .stats .container .box > p {
-  font-size: 17px;
+  font-size: 14px;
 }
 }
 /* END STATES */
